@@ -1,0 +1,13 @@
+
+      h1 {
+        background-color: rgb(234, 237, 35);
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: dashed;
+      }
+      p {
+        background-color: rgb(241, 235, 107);
+        font-style: italic;
+      }
+     body{
+         background-color:yellow;
+     }
